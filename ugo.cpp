@@ -1,4 +1,5 @@
-//
+
+//Questa cavalla qui non è la stessa più, non è la stessa più!
 //  main.cpp
 //  Esercizio puntatori a struct
 //
